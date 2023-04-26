@@ -1,4 +1,4 @@
-# Hi! This is GBCCCCC!
+# Hi! This is GBC!
 I am an undergraduate student of NJU-CS. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gbccccc&show_icons=true&theme=prussian)
