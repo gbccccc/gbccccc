@@ -1,5 +1,5 @@
 # Hi! This is GBC!
-I am currently a graduate student pursuing M.S. degree of computer science in University of Southern California.
+I have obtained my M.S. degree of computer science from University of Southern California.
 
 I have obtained my B.S. degree of computer science from Nanjing University. 
 
